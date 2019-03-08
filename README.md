@@ -1,6 +1,8 @@
 # Mapa-Luz-MG
 ## Mapa desenvolvido com Pug, Sass e CoffeeScript
 
+![Mapa-Luz-MG](luz.jpg)
+
 Para compilar os pré procesaadores é necessário ter o NodeJS em sua máquina e depois instalar CoffeeScript, Sass e Pug.
 
 ### Instruções para instalar o Pug
