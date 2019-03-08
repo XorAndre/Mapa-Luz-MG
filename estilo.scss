@@ -1,0 +1,57 @@
+#map-canvas {
+  margin: 0;
+  padding: 0;
+  min-height: 90vh;
+  height: 500px;
+  width: 100%;
+  max-width: none;
+}
+.infowindow_data_slick{
+  width: 100%;
+  max-height: 200px;
+  img{
+    width: 100%;
+  }
+  .slick-arrow{
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30px;
+    height: 100%;
+    border: 0;
+    background: none;
+    outline: 0;
+    z-index: 9;
+  }
+  .slick-next{
+    right: 0;
+    left: auto;
+  }
+}
+.gm-style-iw.custom{
+  max-width: 270px;
+  background: #fefefe;
+  box-shadow: 5px 10px 30px -10px #000;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.infowindow{
+  width: 270px;
+  padding-left: 0;
+  padding-right: 0;
+}
+.infowindow_wrapper.intro{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.mini-intro {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.fa {
+  vertical-align: middle;
+}
